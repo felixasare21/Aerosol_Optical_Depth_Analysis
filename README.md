@@ -73,8 +73,7 @@ pip install xarray netCDF4 numpy pandas geopandas "shapely>=2.1" matplotlib cart
 
 ## Authors
 
-Group 6: Felix Asiedu Asare, Kessewaah Asenso, Ampoma Boakye Henry, Addo Kingsford, Agyeman Laurie, Emmanuel Dortumor
-
+Group 6: Felix Asiedu Asare
 ## Acknowledgements
 
 Data: Copernicus Atmosphere Monitoring Service (CAMS) and ERA5 reanalysis (ECMWF / Copernicus Climate Change Service).
